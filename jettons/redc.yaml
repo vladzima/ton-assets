@@ -1,0 +1,10 @@
+name: Red Coin
+description: Red company Coin on the Legendary Blockchain.
+image: "https://nft.animalsredlist.com/redc/redc.png"
+address: 0:c0832d7170d83468595ee78f2689ab1274b0a42f59c37aa48b3fb3ee6b8c2afa
+symbol: REDC
+max_supply: 2000000000
+social:
+  - "https://t.me/RedList_NFT"
+websites:
+  - "https://animalsredlist.com"
